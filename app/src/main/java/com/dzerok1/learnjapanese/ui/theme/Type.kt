@@ -6,6 +6,8 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
+const val DEFAULT_PADDING = 44
+
 // Set of Material typography styles to start with
 val Typography = Typography(
     bodyLarge = TextStyle(
